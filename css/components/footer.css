@@ -1,0 +1,9 @@
+.footer{
+  background-color: teal;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  object-fit: cover;
+  justify-content: center;
+}
